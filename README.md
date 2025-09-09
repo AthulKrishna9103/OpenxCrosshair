@@ -19,8 +19,7 @@ Perfect for training aim, testing recoil patterns, or just having a custom cross
 - System tray support (runs in background, right-click to exit).
 - Config saving/loading.
 - Recoil animation profiles for popular FPS games:
-  - **Valorant** (Vandal, Phantom)
-  - **CS:GO** (AK-47, M4A1-S)
+  - **Valorant** (Vandal, Phantom)(in developement)
 - Portable: no installation required (just run `.exe`).
 
 ---
