@@ -41,7 +41,22 @@ Grab the latest **Release build** from the [Releases page](../../releases).
 6. Customize crosshair style, color, outline, and recoil profiles.
 
 ---
+## Tray icon
 
+<img width="346" height="156" alt="Screenshot 2025-09-09 210740" src="https://github.com/user-attachments/assets/714d26b5-1c05-41ea-9feb-4083786bc8ee" >
+
+<img width="344" height="152" alt="Screenshot 2025-09-09 211248" src="https://github.com/user-attachments/assets/52caf4c1-9b67-484a-922c-e0af7eac8b53" />
+
+
+---
+## Crosshair
+<img width="1919" height="1079" alt="Screenshot 2025-09-09 210659" src="https://github.com/user-attachments/assets/c1179408-f204-477d-b366-d82589eb8813" />
+
+---
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-09 210651" src="https://github.com/user-attachments/assets/33e17233-fe8e-426a-96e0-921152c8c033" />
+
+---
 ## 🛠 Build Instructions (For Developers)
 If you want to build from source:
 
